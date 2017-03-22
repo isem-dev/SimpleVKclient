@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple VK client</string>
+    <integer name="com_vk_sdk_AppId">5739660</integer>
+
+    <!-- Strings related to login -->
+    <string name="action_sign_in_short">Sign in with VK</string>
+    <string name="logout">Logout</string>
+    <string name="continue_using_app">Continue using app</string>
+
+</resources>
